@@ -6,11 +6,11 @@
 
     <groupId>com.github.roman-grytsay</groupId>
     <artifactId>cucumber-rocky</artifactId>
-    <version>0.8</version>
+    <version>0.11</version>
     <packaging>jar</packaging>
 
     <name>Rocky</name>
-    <url>https://jitpack.io/#roman-grytsay/cucumber-rocky/0.8</url>
+    <url>https://jitpack.io/#roman-grytsay/cucumber-rocky/0.11</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -21,7 +21,7 @@
         <dependency>
             <groupId>org.seleniumhq.selenium</groupId>
             <artifactId>selenium-java</artifactId>
-            <version>2.49.1</version>
+            <version>2.53.0</version>
         </dependency>
         <!--TestNG framework to run tests-->
         <dependency>
